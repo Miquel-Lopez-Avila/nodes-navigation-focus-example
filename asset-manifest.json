@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nodes-navigation-focus-example/static/css/main.d0f51ed1.chunk.css",
+    "main.js": "/nodes-navigation-focus-example/static/js/main.4d3a6778.chunk.js",
+    "main.js.map": "/nodes-navigation-focus-example/static/js/main.4d3a6778.chunk.js.map",
+    "runtime-main.js": "/nodes-navigation-focus-example/static/js/runtime-main.2ea67f59.js",
+    "runtime-main.js.map": "/nodes-navigation-focus-example/static/js/runtime-main.2ea67f59.js.map",
+    "static/js/2.f429fd54.chunk.js": "/nodes-navigation-focus-example/static/js/2.f429fd54.chunk.js",
+    "static/js/2.f429fd54.chunk.js.map": "/nodes-navigation-focus-example/static/js/2.f429fd54.chunk.js.map",
+    "static/js/3.021e21f2.chunk.js": "/nodes-navigation-focus-example/static/js/3.021e21f2.chunk.js",
+    "static/js/3.021e21f2.chunk.js.map": "/nodes-navigation-focus-example/static/js/3.021e21f2.chunk.js.map",
+    "index.html": "/nodes-navigation-focus-example/index.html",
+    "static/css/main.d0f51ed1.chunk.css.map": "/nodes-navigation-focus-example/static/css/main.d0f51ed1.chunk.css.map",
+    "static/js/2.f429fd54.chunk.js.LICENSE.txt": "/nodes-navigation-focus-example/static/js/2.f429fd54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ea67f59.js",
+    "static/js/2.f429fd54.chunk.js",
+    "static/css/main.d0f51ed1.chunk.css",
+    "static/js/main.4d3a6778.chunk.js"
+  ]
+}
