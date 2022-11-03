@@ -169,7 +169,7 @@ This is an example of how the focus looks in an application example. Click [here
 
 ## Authors
 
-- [@miquel-lopez-avila](https://github.com/Miquel-Lopez-Avila)
+- [@miquel-lopez-avila](https://miquel-lopez-avila.github.io/nodes-navigation-focus-example/)
 
 
 ## License
